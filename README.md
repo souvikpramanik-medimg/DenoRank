@@ -77,7 +77,7 @@ A CUDA GPU is required for generation, LoRA training and scoring (Stable Diffusi
 | Dataset | Task | Link |
 |---------|------|------|
 | MoNuSeg | Multi-organ nuclei | [Grand Challenge](https://monuseg.grand-challenge.org/) |
-| CPM-17  | Nuclei, 4 cancer types | [HoVer-Net data page](https://github.com/vqdang/hover_net) |
+| CPM-17  | Nuclei, 4 cancer types | [HoVer-Net data page](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2019.00053/full) |
 
 Expected structure (a `validation/` split is optional; if missing, 20% of train tiles are held out):
 
