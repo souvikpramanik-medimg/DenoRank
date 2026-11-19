@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "DenoRank: Gradient-Free Synthetic Sample Selection for Low-Label Nuclei Segmentation via Diffusion Denoising Residuals"
+version: 1.0.0
+date-released: 2026-11-20
+url: "https://github.com/souvikpramanik-medimg/DenoRank"
+repository-code: "https://github.com/souvikpramanik-medimg/DenoRank"
+license: MIT
+authors:
+  - family-names: Pramanik
+    given-names: Souvik
+    email: spramanik.diat23@gmail.com
