@@ -51,3 +51,6 @@ wandb/
 _sd_lora_*/
 *.npz
 *.npy
+
+!denorank/data/
+!denorank/data/**
