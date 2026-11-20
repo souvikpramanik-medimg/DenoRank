@@ -33,4 +33,4 @@ jobs:
         run: python -c "import denorank; from denorank.models import build_segmenter; print('Package import OK')"
 
       - name: Unit tests (CPU, no GPU or model downloads)
-        run: pytest -q tests/
+        run: python -m pytest -q tests/
